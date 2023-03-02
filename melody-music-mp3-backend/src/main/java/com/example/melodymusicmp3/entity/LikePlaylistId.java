@@ -1,16 +1,22 @@
 package com.example.melodymusicmp3.entity;
 
-import lombok.AllArgsConstructor;
-import lombok.Getter;
-import lombok.Setter;
+import jakarta.persistence.Embeddable;
+import jakarta.persistence.ManyToOne;
 
 import java.io.Serializable;
-@AllArgsConstructor
-@Getter
-@Setter
+
+@Embeddable
 public class LikePlaylistId implements Serializable {
+    @ManyToOne
     private Playlist playlist;
+    @ManyToOne
     private User user;
 
+    public LikePlaylistId(Playlist playlist, User user) {
+        this.playlist = playlist;
+        this.user = user;
+    }
 
+    public LikePlaylistId() {
+    }
 }

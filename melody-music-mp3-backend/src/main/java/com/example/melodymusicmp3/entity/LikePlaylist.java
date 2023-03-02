@@ -1,11 +1,14 @@
 package com.example.melodymusicmp3.entity;
 
+import jakarta.persistence.EmbeddedId;
 import jakarta.persistence.Entity;
-import lombok.Data;
+import lombok.AllArgsConstructor;
+import lombok.NoArgsConstructor;
 
 @Entity
-@Data
+@AllArgsConstructor
+@NoArgsConstructor
 public class LikePlaylist {
-    private Playlist playlist;
-    private User user;
+    @EmbeddedId
+    private LikePlaylistId likePlaylistId;
 }
