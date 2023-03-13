@@ -4,7 +4,76 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77dcb320-a353-492c-b12a-9978009e8b28" name="Default Changelist" comment="" />
+    <list default="true" id="77dcb320-a353-492c-b12a-9978009e8b28" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/backend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/example/melodymusicmp3/MelodyMusicMp3BackendApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/example/melodymusicmp3/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/example/melodymusicmp3/entity/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/example/melodymusicmp3/entity/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/example/melodymusicmp3/entity/CommentPlaylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/example/melodymusicmp3/entity/CommentSinger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/example/melodymusicmp3/entity/CommentSong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/example/melodymusicmp3/entity/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/example/melodymusicmp3/entity/JwtResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/example/melodymusicmp3/entity/LikePlaylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/example/melodymusicmp3/entity/LikePlaylistId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/example/melodymusicmp3/entity/LikeSong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/example/melodymusicmp3/entity/LikeSongId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/example/melodymusicmp3/entity/Playlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/example/melodymusicmp3/entity/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/example/melodymusicmp3/entity/Singer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/example/melodymusicmp3/entity/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/example/melodymusicmp3/entity/Track.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/example/melodymusicmp3/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/example/melodymusicmp3/entity/UserDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/example/melodymusicmp3/entity/UserPrinciple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/test/java/com/example/melodymusicmp3/MelodyMusicMp3BackendApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/assets/react.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/vite.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/melody-music-mp3-backend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/melody-music-mp3-backend/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/melody-music-mp3-backend/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/melody-music-mp3-backend/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/melody-music-mp3-backend/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/melody-music-mp3-backend/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/melody-music-mp3-backend/src/main/java/com/example/melodymusicmp3/MelodyMusicMp3BackendApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/melody-music-mp3-backend/src/main/java/com/example/melodymusicmp3/controller/AuthController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/melody-music-mp3-backend/src/main/java/com/example/melodymusicmp3/entity/Album.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/melody-music-mp3-backend/src/main/java/com/example/melodymusicmp3/entity/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/melody-music-mp3-backend/src/main/java/com/example/melodymusicmp3/entity/CommentPlaylist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/melody-music-mp3-backend/src/main/java/com/example/melodymusicmp3/entity/CommentSinger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/melody-music-mp3-backend/src/main/java/com/example/melodymusicmp3/entity/CommentSong.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/melody-music-mp3-backend/src/main/java/com/example/melodymusicmp3/entity/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/melody-music-mp3-backend/src/main/java/com/example/melodymusicmp3/entity/JwtResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/melody-music-mp3-backend/src/main/java/com/example/melodymusicmp3/entity/LikePlaylist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/melody-music-mp3-backend/src/main/java/com/example/melodymusicmp3/entity/LikePlaylistId.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/melody-music-mp3-backend/src/main/java/com/example/melodymusicmp3/entity/LikeSong.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/melody-music-mp3-backend/src/main/java/com/example/melodymusicmp3/entity/LikeSongId.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/melody-music-mp3-backend/src/main/java/com/example/melodymusicmp3/entity/Playlist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/melody-music-mp3-backend/src/main/java/com/example/melodymusicmp3/entity/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/melody-music-mp3-backend/src/main/java/com/example/melodymusicmp3/entity/Singer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/melody-music-mp3-backend/src/main/java/com/example/melodymusicmp3/entity/Song.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/melody-music-mp3-backend/src/main/java/com/example/melodymusicmp3/entity/Track.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/melody-music-mp3-backend/src/main/java/com/example/melodymusicmp3/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/melody-music-mp3-backend/src/main/java/com/example/melodymusicmp3/entity/UserDetail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/melody-music-mp3-backend/src/main/java/com/example/melodymusicmp3/entity/UserPrinciple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/melody-music-mp3-backend/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/melody-music-mp3-backend/src/test/java/com/example/melodymusicmp3/MelodyMusicMp3BackendApplicationTests.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,15 +83,33 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2MNF8CdthVqR2oQgobJGDzCZzeO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/backend" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -35,10 +122,25 @@
       <workItem from="1677599986274" duration="46000" />
       <workItem from="1677600098132" duration="111000" />
       <workItem from="1677600247563" duration="141000" />
+      <workItem from="1678458624197" duration="106000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
